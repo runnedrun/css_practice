@@ -1,5 +1,0 @@
-common features:
-
-Alot of the websites a scrollable landing page.  The most important information
-and links are featured at the top, and the only things visible when you land on
-the page.  The you scroll down 	       
