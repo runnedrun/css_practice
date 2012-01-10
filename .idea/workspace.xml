@@ -24,10 +24,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="T2_html.html" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/static_htmls/T2_html.html">
+          <file leaf-file-name="t2_style.css" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/david/css/t2_style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="18" column="8" selection-start="1261" selection-end="1261" vertical-scroll-proportion="0.42993632">
+                <state line="33" column="4" selection-start="500" selection-end="500" vertical-scroll-proportion="0.72392637">
                   <folding />
                 </state>
               </provider>
@@ -37,19 +37,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="t2_style.css" pinned="false" current="true" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/css/t2_style.css">
+          <file leaf-file-name="T2_html.html" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/david/static_htmls/T2_html.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="22" column="13" selection-start="309" selection-end="309" vertical-scroll-proportion="0.49624062">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="960.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/css/960.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="49" column="0" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0">
+                <state line="46" column="16" selection-start="2268" selection-end="2268" vertical-scroll-proportion="0.9522293">
                   <folding />
                 </state>
               </provider>
@@ -74,6 +65,8 @@
       <list>
         <option value="$PROJECT_DIR$/static_htmls/T2_html.html" />
         <option value="$PROJECT_DIR$/css/t2_style.css" />
+        <option value="$PROJECT_DIR$/david/static_htmls/T2_html.html" />
+        <option value="$PROJECT_DIR$/david/css/t2_style.css" />
       </list>
     </option>
   </component>
@@ -125,14 +118,8 @@
               <option name="myItemId" value="css_practice" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="css_practice" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css_practice" />
+              <option name="myItemId" value="david" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -147,6 +134,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="css_practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="david" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -168,7 +159,33 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="david" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css_practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css_practice" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="david" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -185,6 +202,13 @@
     <property name="options.splitter.details.proportions" value="0.2" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugSession" factoryName="Local">
+      <JSDebuggerConfigurationSettings>
+        <option name="engineId" />
+        <option name="fileUrl" />
+      </JSDebuggerConfigurationSettings>
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -289,23 +313,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/static_htmls/T2_html.html">
+    <entry file="file://$PROJECT_DIR$/david/static_htmls/T2_html.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="8" selection-start="1261" selection-end="1261" vertical-scroll-proportion="0.42993632">
+        <state line="46" column="16" selection-start="2268" selection-end="2268" vertical-scroll-proportion="0.9522293">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/960.css">
+    <entry file="file://$PROJECT_DIR$/david/css/t2_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="49" column="0" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/t2_style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="13" selection-start="309" selection-end="309" vertical-scroll-proportion="0.49624062">
+        <state line="33" column="4" selection-start="500" selection-end="500" vertical-scroll-proportion="0.72392637">
           <folding />
         </state>
       </provider>
